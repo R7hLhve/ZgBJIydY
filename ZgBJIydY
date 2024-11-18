@@ -1,1 +1,46 @@
-Mrj9g1HptDZDUb0dfxQAW
+.DS_Store
+result
+results
+.idea
+*.pyc
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Django stuff:
+*.log
+*.log.*
+local_settings.py
+db.sqlite3
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+file_local/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+logs/
+/activity/service/op_token/file_address/
+/rpa/blur/otherdeed/
+/exchange/views/material/
+/proxy_test_list.txt
+/sui_address_list.txt
+/activity/dapp/nostr_wallet_list.txt
